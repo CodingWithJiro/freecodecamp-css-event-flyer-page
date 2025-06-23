@@ -1,20 +1,18 @@
-# 📁 Event Flyer Page
+# 💻 Event Flyer Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 ![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
 ![Accessible](https://img.shields.io/badge/Accessibility-A11Y-0052cc?style=for-the-badge)
-![Beginner Project](https://img.shields.io/badge/Beginner%20Project-25D366?style=for-the-badge)
-![Responsive Layout](https://img.shields.io/badge/Responsive%20Layout-Full%20Support-blue?style=for-the-badge)
 ![Modern UI](https://img.shields.io/badge/Modern%20UI-polished%20look-yellowgreen?style=for-the-badge)
 ![UI Design Practice](https://img.shields.io/badge/UI%20Design%20Practice-interface%20building-ff69b4?style=for-the-badge)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/47674e46-271a-4f1e-8590-c2887b53fb8d/deploy-status)](https://html-css-daily.netlify.app/build%20an%20event%20flyer%20page/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57a63f6f-0739-4a2b-8c67-d20cb595ee19/deploy-status)](https://event-flyer-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 
@@ -65,20 +63,22 @@ The layout emphasizes user engagement through well-structured content blocks, co
 
 - HTML5
 - CSS3
+- Git
+- GitHub
+- Netlify
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository
-2. Navigate to this project folder
-3. Open `index.html` in your browser
+2. Open `index.html` in your browser
 
 ---
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](https://html-css-daily.netlify.app/build%20an%20event%20flyer%20page/)
+Or you can check out the 👉 [live website here](https://event-flyer-page-fcc-jiro.netlify.app/)
 
 ---
 
@@ -88,4 +88,4 @@ Created by **Elmar Chavez**
 
 🗓️ Month/Year: **May 2025**
 
-📚 Journey: **2nd** month of learning _frontend web development_.
+📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
