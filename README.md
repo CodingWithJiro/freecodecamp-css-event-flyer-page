@@ -15,6 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/57a63f6f-0739-4a2b-8c67-d20cb595ee19/deploy-status)](https://event-flyer-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-event-flyer-page&left_text=repo%20views)
 
 ## ℹ️ Event Flyer Page — A Stylish Layout for Festival Promotions
 
