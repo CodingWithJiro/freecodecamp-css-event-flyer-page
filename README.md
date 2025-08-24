@@ -17,7 +17,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-event-flyer-page&left_text=repo%20views)
 
-## ℹ️ Event Flyer Page — A Stylish Layout for Festival Promotions
+## ℹ️ A Stylish Layout Page for Festival Promotions
 
 ![Screenshot of the project](./screenshot.png)
 
